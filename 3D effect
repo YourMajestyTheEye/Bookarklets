@@ -1,0 +1,1 @@
+javascript:(function(){var js=document.body.appendChild(document.createElement(%22script%22));js.onerror=function(){alert(%22Sorry, the script could not be loaded.%22)};js.src=%22https://rawgit.com/Krazete/bookmarklets/master/tri.js%22})();
