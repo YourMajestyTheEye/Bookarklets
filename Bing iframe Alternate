@@ -1,0 +1,1 @@
+javascript:document.body.innerHTML = "<iframe src=\"https:\/\/bing.com\/\" style=\"border:0px #ffffff%20none;\%22%20name=\%22myiFrame\%22%20scrolling=\%22yes\%22%20frameborder=\%221\%22%20marginheight=\%220px\%22%20marginwidth=\%220px\%22%20height=\%22100%\%22%20width=\%22100%\%22%20allowfullscreen%3E%3C\/iframe%3E%22;
