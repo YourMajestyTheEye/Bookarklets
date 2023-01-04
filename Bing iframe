@@ -1,0 +1,1 @@
+javascript:(function()%7Bconst t %3D document.title%0Adocument.write('<iframe src%3D"https%3A%2F%2Fwww.bing.com%2F" style%3D"border%3A0px %23ffffff none%3B" name%3D"myiFrame" scrolling%3D"yes" frameborder%3D"1" marginheight%3D"0px" marginwidth%3D"0px" height%3D"650px" width%3D"1350px" allowfullscreen><%2Fiframe>')%0Adocument.title %3D t%7D)()%3B
