@@ -1,0 +1,1 @@
+javascript:q = '' + (window.getSelection ?%20window.getSelection()%20:%20document.getSelection%20?%20document.getSelection()%20:%20document.selection.createRange().text);%20if%20(!q)%20q%20=%20prompt(%22Enter%20a%20search%20phrase:%22,%20%22%22);%20if%20(q!=null)%20location=%22http://www.google.com/search?q=%22%20+%20escape(q).replace(/%20/g,%20%22+%22);%20void%200
