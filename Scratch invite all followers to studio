@@ -1,0 +1,1 @@
+javascript:x=document.createElement("script");x.src="//cdn.jsdelivr.net/gh/Titanium2099/invite-all-your-followers-to-a-studio@1.0/code.js"; void document.getElementsByTagName("head")[0].appendChild(x);
