@@ -1,0 +1,1 @@
+javascript:((function()%7Bvar a,b,c;c="https://myohtheweb.edjiang1234.repl.co",b=document.createElement("iframe"),b.setAttribute("src",c),b.setAttribute("id","myohthegod"),b.setAttribute("style","position: fixed; z-index: 999999; width: 100%; height: 100%; top: 0px; left: 0px; border: 0;"),a=document.getElementsByTagName("body")%5B0%5D,a.appendChild(b)%7D)).call(this)
