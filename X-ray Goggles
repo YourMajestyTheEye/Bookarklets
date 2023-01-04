@@ -1,0 +1,1 @@
+javascript:(function () %7Bvar script%3Ddocument.createElement(%27script%27)%3Bscript.src%3D%27https://x-ray-goggles.mouse.org/webxray.js%27%3Bscript.className%3D%27webxray%27%3Bscript.setAttribute(%27data-lang%27,%27en-US%27)%3Bscript.setAttribute(%27data-baseuri%27,%27https://x-ray-goggles.mouse.org%27)%3Bdocument.body.appendChild(script)%3B%7D())
