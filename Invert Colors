@@ -1,0 +1,1 @@
+javascript:krazete:var inverthtml;void 0===inverthtml?((inverthtml=document.createElement(%22style%22)).innerHTML=%22html{background:black;filter:invert(100%25)}%22,document.body.appendChild(inverthtml)):(inverthtml.remove(),inverthtml=void%200);
