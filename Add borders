@@ -1,0 +1,1 @@
+javascript:(function(){ function mark(elem) { if(elem.style) { elem.style.border="1px solid green"; } } ; function recurse(elem,p) { var i, k, cn; if(!elem) { alert("null"); return; } mark(elem); cn = elem.childNodes; if(cn){ k = cn.length; for (i = 0; i < k; i++) { recurse(cn[i], p + "." + i); } }} recurse(document,"d"); })();
