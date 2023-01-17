@@ -1,0 +1,1 @@
+javascript:var i=new Image,h=51.2,w=77.2,d=document.documentElement;i.src="https://66.media.tumblr.com/8210fd413c5ce209678ef82d65731443/tumblr_mjphnqLpNy1s5jjtzo1_400.gif";i.style.height=h+"px";i.style.width=w+"px";i.style.position="absolute";d.style.cursor="none";d.appendChild(i);window.onmousemove=function(a){i.style.left=a.clientX-w/2+"px";i.style.top=a.clientY-h/2+"px"};
